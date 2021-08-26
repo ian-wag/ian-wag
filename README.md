@@ -12,9 +12,6 @@ I'm Ian, a creative coder, who specializes in front-end web development!
 
 ### 🚲&nbsp;&nbsp; Probably out biking around the city
 
-<br>
-<br>
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/ian-wag)
 
 <!--
