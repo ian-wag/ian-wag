@@ -2,6 +2,8 @@
 
 # <img src="assets/wave.gif" width="29px"> Hello!
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/ian-wag)
+
 I'm Ian, a creative coder, who specializes in front-end web development!
 
 ### 📫&nbsp;&nbsp; How to reach me: ian@ianwag.com
@@ -11,8 +13,6 @@ I'm Ian, a creative coder, who specializes in front-end web development!
 ### 🌃&nbsp;&nbsp; Currently living in Chicago
 
 ### 🚲&nbsp;&nbsp; Probably out biking around the city
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/ian-wag)
 
 <!--
 **iwagner76/iwagner76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
