@@ -2,7 +2,7 @@
 
 # <img src="assets/wave.gif" width="29px"> Hello!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/ian-wag)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ian-wag)
 
 I'm Ian, a creative coder, who specializes in front-end web development!
 
