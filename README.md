@@ -1,5 +1,4 @@
 <img src="assets/ian-banner.png" width="100%">
-<br>
 
 # <img src="assets/wave.gif" width="29px"> Hello!
 
