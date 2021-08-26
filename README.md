@@ -1,4 +1,24 @@
-### Hi there 👋
+<img src="assets/ian-banner.png" width="100%">
+<br>
+<br>
+<br>
+
+# <img src="assets/wave.gif" width="29px"> Hello!
+
+I'm Ian, a creative coder, who specializes in front-end web development!
+
+### 📫&nbsp;&nbsp; How to reach me: ian@ianwag.com
+
+### 🌐&nbsp;&nbsp; Check out [MY PORTFOLIO](ianwag.com)
+
+### 🌃&nbsp;&nbsp; Currently living in Chicago
+
+### 🚲&nbsp;&nbsp; Probably out biking around the city
+
+<br>
+<br>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/ian-wag)
 
 <!--
 **iwagner76/iwagner76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +33,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+  <!-- <a href="https://www.linkedin.com/in/ian-wagner-144b13181">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
