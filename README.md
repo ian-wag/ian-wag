@@ -6,10 +6,10 @@
 
 ### I'm Ian, a creative coder who specializes in front-end web development!
 
-### 📫&nbsp;&nbsp; How to reach me: ian@ianwag.com
+#### 📫&nbsp;&nbsp; How to reach me: ian@ianwag.com
 
-### 🌐&nbsp;&nbsp; Check out [MY PORTFOLIO](https://ianwag.com/)
+#### 🌐&nbsp;&nbsp; Check out [MY PORTFOLIO](https://ianwag.com/)
 
-### 🌃&nbsp;&nbsp; Currently living in Chicago
+#### 🌃&nbsp;&nbsp; Currently living in Chicago
 
-### 🚲&nbsp;&nbsp; Probably out biking around the city
+#### 🚲&nbsp;&nbsp; Probably out biking around the city
